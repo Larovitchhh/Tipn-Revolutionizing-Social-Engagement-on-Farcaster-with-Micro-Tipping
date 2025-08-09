@@ -1,0 +1,8 @@
+Tipn operates as a mini app within Farcaster’s ecosystem, built using HTML, CSS, and JavaScript, and integrated via Farcaster’s SDK to access native features like user authentication and wallet connectivity. Here’s a breakdown of how it functions:Seamless Integration: Tipn is accessible directly within Farcaster clients, such as Warpcast, where users can discover and use it without leaving the platform. It’s tied to a specific domain, ensuring stability and security.
+
+Micro-Tipping Mechanism: Users can link their Farcaster accounts to a crypto wallet, funding it with tokens (often referred to as $TIPN in the community). When a user likes or interacts with a post (or "cast"), they can opt to send a small tip to the creator. This process is automated, making it as simple as clicking a button.
+
+Creator Rewards: Creators receive tips directly to their Farcaster-linked wallets, providing immediate financial support for their content. This system incentivizes high-quality posts and fosters a vibrant, engaged community.
+
+Community-Driven Incentives: Tipn encourages users to participate in the tipping ecosystem by allocating a portion of their rewards to fund their wallets, creating a self-sustaining cycle of content creation and appreciation. For example, a recent initiative highlighted on Farcaster offered $1,000 to the best anime content, with winners encouraged to use a small percentage of their reward to set up Tipn and tip others.
+
